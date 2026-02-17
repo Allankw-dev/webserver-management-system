@@ -125,7 +125,7 @@ If you want 🔥 I can now:
 
 Combine both projects into one professional GitHub portfolio description
 
-Help you structure your GitHub repositories properly
+Help you structure your GitHub repositories properly.
 
 Create a powerful GitHub profile README
 
