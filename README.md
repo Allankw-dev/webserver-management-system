@@ -121,14 +121,4 @@ Allan Kamau
 
 🔗 GitHub: https://github.com/Allankw-dev
 
-If you want 🔥 I can now:
 
-Combine both projects into one professional GitHub portfolio description
-
-Help you structure your GitHub repositories properly.
-
-Create a powerful GitHub profile README
-
-Rate your projects like a recruiter
-
-What’s the goal now — coursework marks or preparing for jobs?
