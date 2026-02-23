@@ -119,6 +119,6 @@ It showcases practical UI development skills for desktop-based Java applications
 Allan Kamau
 📧 allankamauw20@gmail.com
 
-🔗 GitHub: https://github.com/Allankw-dev
+🔗 GitHub: https://github.com/Allankw-dev.
 
 
