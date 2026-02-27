@@ -112,7 +112,7 @@ Knowledge of event handling
 
 Clean and structured Java code
 
-It showcases practical UI development skills for desktop-based Java applications.
+It showcases practical UI development skills for desktop-based Java applications..
 
 👨‍💻 Author
 
