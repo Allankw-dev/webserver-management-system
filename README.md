@@ -110,7 +110,7 @@ Strong understanding of Swing components
 
 Knowledge of event handling
 
-Clean and structured Java code
+Clean and structured Java code.
 
 It showcases practical UI development skills for desktop-based Java applications..
 
